@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvicxx
 - 👀 I’m currently studying Computer Science @ UniPi
-- 🌱 I’m currently learning JavaScript, TypeScript and Java.
+- 🌱 I’m currently learning...
 - 📫 How to reach me: 
                         MAIL:   t.vicarelli@studenti.unipi.it
                     TELEGRAM:   @tvicxx
